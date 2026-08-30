@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Lucas Confortini Batista">
+  <rect width="64" height="64" rx="12" fill="#07090c"/>
+  <rect x="1" y="1" width="62" height="62" rx="11" fill="none" stroke="#9dffb0" stroke-width="1.25" opacity="0.7"/>
+  <text x="32" y="42" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700" fill="#e8eee9" letter-spacing="0.5">LCB</text>
+</svg>
