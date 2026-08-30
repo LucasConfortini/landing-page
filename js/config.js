@@ -12,6 +12,6 @@ window.PORTFOLIO = {
   linkedin: "https://www.linkedin.com/in/lucasconfortinibatista/",
   orcid: "https://orcid.org/0000-0002-1734-8930",
   paper: "https://doi.org/10.31510/infa.v19i1.1397",
-  email: "",
+  email: "lucasconfortini1@gmail.com",
   domain: "",
 };

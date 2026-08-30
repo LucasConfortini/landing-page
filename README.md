@@ -43,17 +43,3 @@ lucas-landingPage/
     ├── avatar.jpg
     └── og-image.jpg
 ```
-
----
-
-## Conteúdo
-
-Os textos e projetos vêm de fontes públicas:
-
-- GitHub (`LucasConfortini`)
-- Portfólio legado (Google Sites)
-- Artigo na Revista Interface Tecnológica (2022)
-
-O LinkedIn foi referenciado nos links, mas o perfil não pôde ser lido automaticamente. Por isso **não há empresas, cargos detalhados ou datas inventadas**.
-
-Para exibir e-mail, preencha `email` em `js/config.js`.
